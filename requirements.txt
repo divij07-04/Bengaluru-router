@@ -1,0 +1,6 @@
+osmnx
+folium
+networkx
+requests
+gradio
+scikit-learn
